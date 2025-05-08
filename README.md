@@ -1,6 +1,9 @@
 # sql-data-analytics-project
 
+
 A comprehensive collection of SQL scripts designed for data exploration, analytics, and reporting. This repository covers a wide range of analytical tasks, including database exploration, key metrics, time-series trends, cumulative analysis, segmentation, and more. Each script is tailored to help data analysts and BI professionals efficiently explore, segment, and analyze relational database data, while demonstrating best practices for writing optimized and effective SQL queries.
+
+
 ---
 
 ## Project requirements
